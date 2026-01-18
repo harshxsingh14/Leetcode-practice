@@ -1,4 +1,4 @@
-public class Product {
+public class product {
     public int[] productExceptSelf(int[] nums) {
         int prod = 1, zeroCount = 0;
         for (int num : nums) {
